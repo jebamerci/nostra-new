@@ -9,10 +9,6 @@ This project demonstrates clean design, modern layout principles, and mobile res
 
 🔗 [View Live Project](https://jebamerci.github.io/nostra-new/)
 
-*(Add a screenshot by uploading `screenshot.png` to the repo and using `![screenshot](./screenshot.png)` below the demo link if you want a visual preview.)*
-
----
-
 💼 **Tech Stack**
 
 - HTML5  
